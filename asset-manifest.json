@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_deploy_netlify/static/css/main.70d96c9e.css",
+    "main.js": "/react_deploy_netlify/static/js/main.72b71434.js",
+    "index.html": "/react_deploy_netlify/index.html",
+    "main.70d96c9e.css.map": "/react_deploy_netlify/static/css/main.70d96c9e.css.map",
+    "main.72b71434.js.map": "/react_deploy_netlify/static/js/main.72b71434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70d96c9e.css",
+    "static/js/main.72b71434.js"
+  ]
+}
